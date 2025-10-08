@@ -1,0 +1,15 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<manifest>
+  <!--Device-->
+  <project name="salih4187/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-18.1" />
+  <project name="salih4187/android_device_samsung_trelte" path="device/samsung/trelte" remote="github" revision="lineage-18.1" />
+  <project name="salih4187/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-18.1" />
+  <project name="salih4187/android_vendor_samsung_trelte-common" path="vendor/samsung/trelte-common" remote="github" revision="lineage-18.1" />
+  <project name="salih4187/android_vendor_samsung_trelte" path="vendor/samsung/trelte" remote="github" revision="lineage-18.1" />
+  <!--Hardware-->
+  <project name="salih4187/android_hardware_samsung_slsi_exynos5433" path="hardware/samsung_slsi/exynos5433" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="lineage-18.1" />
+</manifest>
