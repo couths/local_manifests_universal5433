@@ -7,9 +7,9 @@
 - `repo sync --force-sync --no-clone-bundle --current-branch --no-tags -j128`
 
 **2) Download our manifest**
-- `git clone https://github.com/universal5433/local_manifests -b lineage-18.1 .repo/local_manifests`
-- Remove XMLs that do not corrospond to your device (eg keep treltexx.xml in .repo/local_manifests)
-- Alternativly `mkdir -p .repo/local_manifests && curl https://raw.githubusercontent.com/universal5433/local_manifests/lineage-18.1/treltexx.xml > .repo/local_manifests/treltexx.xml`
+- `git clone https://github.com/salih4187/local_manifests -b lineage-18.1 .repo/local_manifests`
+- Remove XMLs that do not corrospond to your device (eg keep trelte.xml in .repo/local_manifests)
+- Alternativly `mkdir -p .repo/local_manifests && curl https://raw.githubusercontent.com/salih4187/local_manifests/lineage-18.1/trelte.xml > .repo/local_manifests/trelte.xml`
 
 **3) ReSync Source with new manifest**
 - `repo sync --force-sync --no-clone-bundle --current-branch --no-tags -j128`
