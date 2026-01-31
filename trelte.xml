@@ -4,7 +4,8 @@
   <project name="salih4187/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-18.1" />
   <project name="salih4187/android_device_samsung_trelte" path="device/samsung/trelte" remote="github" revision="lineage-18.1" />
   <project name="salih4187/android_kernel_samsung_universal5433" path="kernel/samsung/universal5433" remote="github" revision="lineage-18.1" />
-  <project name="salih4187/proprietary_vendor_samsung_exynos5433" path="vendor/samsung" remote="github" revision="lineage-18.1" />
+  <project name="salih4187/android_vendor_samsung_trelte-common" path="vendor/samsung/trelte-common" remote="github" revision="lineage-18.1" />
+  <project name="salih4187/android_vendor_samsung_trelte" path="vendor/samsung/trelte" remote="github" revision="lineage-18.1" />
   <!--Hardware-->
   <project name="salih4187/android_hardware_samsung_slsi_exynos5433" path="hardware/samsung_slsi/exynos5433" remote="github" revision="lineage-18.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-18.1" />
